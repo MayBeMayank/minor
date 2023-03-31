@@ -1,1 +1,1 @@
-# minor
+# L-RC verification
